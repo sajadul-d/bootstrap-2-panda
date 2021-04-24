@@ -1,0 +1,25 @@
+ 
+     .panda-card{
+         border: 0;
+     }
+     .panda-card-footer{
+         border: 0;
+         background-color: white;
+     }
+     /* .catagories img{
+         width: 100px;
+     }  */
+     .panda-slide .carousel-item{
+         background-color:#fceae8;
+     }
+
+     .navbar{
+        position: relative;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+        overflow: hidden;
+        z-index:1;
+     }
+
+      
